@@ -13,16 +13,8 @@
     <img src="https://img.shields.io/github/stars/AdityaRoy999/100-days-of-python.svg" alt="">
 </p>
 
-I'm completed in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy.
-Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better
-guidance than I was getting while "self-learning".
-While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the
-best of my abilities.
-I'll be using this repo as a way for myself to access them as, if and when I need them.
-100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it:
-[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
-
-![wallpaper](wallpaper.png)
+This Repo will teach you python from the basics to Advanced.
+[100 Days of Code - The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code).
 
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
@@ -173,12 +165,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
 
-![certificate](certificate.jpg)
-
-This certificate above verifies that Lenar Gasimov successfully completed the course 
-[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code)  on 05/20/2021 as taught by Dr. Angela Yu on Udemy. 
-The certificate indicates the entire course was completed as validated by the student. 
-The course duration represents the total video hours of the course at time of most recent completion.
+DON'T FORGET TO LEAVE A STAR 😉
 
 ---
 
